@@ -1,8 +1,8 @@
-<h1 align="center">Hello hello 👋, I'm Colin Sutton</h1>
-<h3 align="center">A rising third year Computer Science student at UCI!</h3>
+<h1 align="center">Hello, my name is Colin Sutton 👋</h1>
+<h3 align="center">I'm a rising third-year Computer Science student at the University of California, Irvine, with a focus on information systems and data-intensive computing.</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d89c4f5-abf0-42f5-be4a-5a4217d551ae" width="200" />
 </p>
 
-<h3 align="center">Right now I'm working on projects, learning new tools, looking for internships, and pursuing my degree!</h3>
+<h3 align="center">Outside of the classroom, I'm passionate about game development with Unreal Engine and actively preparing for internship opportunities for Summer 2026. I’m driven by curiosity, collaboration, and the desire to build impactful technology.</h3>
