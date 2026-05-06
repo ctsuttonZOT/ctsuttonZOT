@@ -5,4 +5,4 @@
   <img src="https://github.com/user-attachments/assets/8d89c4f5-abf0-42f5-be4a-5a4217d551ae" width="200" />
 </p>
 
-<h3 align="center">I'm currently serving as a Learning Assistant for UC Irvine's Data Structures and Algorithms course, and I spent the summer working as a Code Coach at The Coder School. I'm passionate about game development with Unreal Engine. Actively preparing for internship opportunities for Summer 2026, driven by curiosity, collaboration, and the desire to build impactful technology.</h3>
+<h3 align="center">I recently served as a Learning Assistant for UC Irvine's Data Structures and Algorithms course, and I spent the summer working as a Code Coach at The Coder School. I'm passionate about game development with Unreal Engine. Actively preparing for internship opportunities for Summer 2026, driven by curiosity, collaboration, and the desire to build impactful technology.</h3>
